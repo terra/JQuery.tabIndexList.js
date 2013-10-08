@@ -1,0 +1,24 @@
+{
+  "name": "JQuery.tabIndexList.js",
+  "version": "0.0.2",
+  "description": "A jQuery plugin that adds a static 'tabIndexList' method to define the order of tabIndex elements in the page",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/terra/JQuery.tabIndexList.js.git"
+  },
+  "keywords": [
+    "html",
+    "tabindex",
+    "jquery",
+    "plugin",
+    "javascript"
+  ],
+  "author": "Guilherme Mar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/terra/JQuery.tabIndexList.js/issues"
+  },
+  "devDependencies" : {
+    "grunt-cli" : "0.1.9"
+  }
+}
