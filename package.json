@@ -1,6 +1,6 @@
 {
   "name": "JQuery.tabIndexList.js",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A jQuery plugin that adds a static 'tabIndexList' method to define the order of tabIndex elements in the page",
   "repository": {
     "type": "git",
@@ -18,7 +18,10 @@
   "bugs": {
     "url": "https://github.com/terra/JQuery.tabIndexList.js/issues"
   },
-  "devDependencies" : {
-    "grunt-cli" : "0.1.9"
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-jshint": "~0.6.4",
+    "grunt-contrib-uglify": "~0.2.4",
+    "grunt-contrib-concat": "~0.3.0"
   }
 }
