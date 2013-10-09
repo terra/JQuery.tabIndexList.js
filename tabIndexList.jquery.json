@@ -2,7 +2,7 @@
   "name": "tabIndexList",
   "title": "JQuery.tabIndexList.js",
   "description": "A jQuery plugin that adds a static 'tabIndexList' method to define the order of tabIndex elements in the page",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "",
   "author": {
     "name": "Mar, G.",
